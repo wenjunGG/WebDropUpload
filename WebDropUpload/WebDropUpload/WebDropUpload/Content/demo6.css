@@ -1,0 +1,229 @@
+.overlay{
+    z-index: 99;
+    position:fixed;
+    display: none;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    opacity:0.5;
+}
+.dropbox{
+    z-index: 100;
+    display: none;
+    position: fixed;
+    width:500px;
+    height:520px;
+    margin:auto;
+    top:0;
+    right:0;
+    bottom: 0;
+    left:0;
+    background-color: #fff;
+    border-radius:6px;
+    transition-duration: 0.9s;
+    -webkit-transition-duration: 0.9s;
+    overflow:hidden;
+    /* text-align: center; */
+}
+.items-container{
+    padding: 10px;
+}
+.content{
+    border: 3px dashed gray;
+    border-radius: 10px;
+    margin: 10px 20px;
+    height:400px;
+    overflow: auto;
+    padding:2px 8px;
+}
+
+.head{
+    margin:0px;
+    font-size:30px;
+    color:#aaa;
+}
+.footer{
+    margin:5px auto
+}
+.btn{
+    border-radius: 20px;
+    box-sizing: border-box;
+    border-width: 2px;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 7px 18px
+}
+/*画一个叉号，表示推出界面*/
+.css-close{display:inline-block; width:15px; height:2px; background:#000; font-size:0; line-height:0;vertical-align:middle;-webkit-transform: rotate(45deg);}
+.css-close:after { content:'.'; display:block; width:15px; height:2px; background:#000;-webkit-transform: rotate(90deg);}
+
+/*表格样式*/
+.table{
+    width:100%;
+    border-collapse: collapse;
+}
+#content tr:first-child td{
+    border-top-width: 0px;
+}
+#content tr td:last-child{
+    cursor: pointer;
+    color: red;
+}
+#content tr td{
+    padding: 8px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    border-top:1px solid #9A9A9A;
+}
+#content tr:hover{
+    background-color: #d5d5d5;
+}
+#content tr:active{
+    background-color: #9A9A9A;
+}
+
+
+ 
+            /*滚动条设置 */
+            ::-webkit-scrollbar {
+                width: 12px;
+                height: 6px;
+            }
+        
+            ::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb:horizontal {
+                border-radius: 6px;
+                background: #465c71;
+            }
+        
+            ::-webkit-scrollbar-button {
+                display: none;
+            }
+        
+            ::-webkit-scrollbar-track, ::-webkit-scrollbar-track-piece {
+                background: -webkit-gradient(linear,left);
+            }
+        
+            ::-webkit-scrollbar-track-piece {
+                background: #dde4ec;
+            }
+        
+        
+                   .upload_box{
+                       width:600px;
+                       height:300px;
+                       border: 1px solid #465c71;
+                   }
+        
+                   .upload_box .upload_btn{
+                        width:100%;
+                        height: 31px;
+                        background-color: #465c71;
+                   }
+        
+                   .upload_box .upload_btn ul{
+                        list-style: none;
+                        margin: 0px;
+                        padding: 0px;
+                    }
+        
+                    .upload_box .upload_btn ul li{
+                      float: left;
+                      /* padding: auto; */
+                      /* margin: auto; */
+                    }
+          
+                    .upload_box .upload_btn ul li a{
+                        background-color: #465c71; /* 背景色 */
+                        border: 1px #4e667d solid; /* 边框 */   
+                        color: #dde4ec; /* 文字颜色 */
+                        display: block; /* 此元素将显示为块级元素，此元素前后会带有换行符 */
+                        line-height: 1.35em; /* 行高 */
+                        padding: 4px 20px; /* 内部填充的距离 */
+                        text-decoration: none; /* 不显示超链接下划线 */
+                        white-space: nowrap; /* 对于文本内的空白处，不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。 */
+                    }
+                 
+                    .upload_box .upload_btn ul li a:hover{
+                        background-color: #bfcbd6; /* 背景色 */
+                        color: #465c71; /* 文字颜色 */
+                        text-decoration: none; /* 不显示超链接下划线 */
+                    }
+        
+                    .upload_box .clearboth{
+                        display: none;
+                    }
+        
+                  .upload_box .upload_content{
+                      margin-top: 12px;
+                      width: 100%;
+                      height: 266px;
+                      /* background-color: aqua; */
+                      /* border-top: 1px solid red; */
+                      overflow: auto;
+                  }
+        
+                  .upload_box .upload_content ul{
+                        list-style: none;
+                        margin: 0px;
+                        padding: 0px;
+                  }
+        
+                 .upload_box .upload_content ul li{
+                    float: left;
+                    margin-left: 15px;
+                    margin-top: 10px;
+                    margin-bottom: 16px;
+                    margin-right: 17px
+                 }
+        
+                    
+                .upload_box .upload_content ul li a{
+                    position: relative;
+                    box-sizing: border-box;
+                    height: 68px;
+                    width: 63px;
+                    /* border: 1px solid #ebeff0; */
+                    border-radius: 4px;
+                    /* background: #ebeff0; */
+                    text-align: center;
+                    line-height: 18px;
+                    display: block;
+                    color: #66757f;
+                    font-size: 13px;
+                    font-family: monospace;
+                   }
+        
+                   .upload_box .upload_content ul li a img{
+                       height: 66px;
+                       width: 70px;
+                       border-radius: 10px;
+                   }
+
+                   .li_file {
+                    background-color: #465c71; /* 背景色 */
+                    border: 1px #4e667d solid; /* 边框 */   
+                    color: #dde4ec; /* 文字颜色 */
+                    display: block; /* 此元素将显示为块级元素，此元素前后会带有换行符 */
+                    line-height: 1.35em; /* 行高 */
+                    padding: 4px 20px; /* 内部填充的距离 */
+                    text-decoration: none; /* 不显示超链接下划线 */
+                    white-space: nowrap; /* 对于文本内的空白处，不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。 */
+                  }
+
+                  .ul_dir {
+                    background-color: #465c71; /* 背景色 */
+                    border: 1px #4e667d solid; /* 边框 */   
+                    color: #dde4ec; /* 文字颜色 */
+                    display: block; /* 此元素将显示为块级元素，此元素前后会带有换行符 */
+                    line-height: 1.35em; /* 行高 */
+                    /* padding: 4px 20px; 内部填充的距离 */
+                    text-decoration: none; /* 不显示超链接下划线 */
+                    white-space: nowrap; /* 对于文本内的空白处，不会换行，文本会在在同一行上继续，直到遇到 <br> 标签为止。 */
+                  }
+
+
+

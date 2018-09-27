@@ -1,0 +1,148 @@
+E:\Product\WebDropUpload\WebDropUpload\bin\WebDropUpload.dll.config
+E:\Product\WebDropUpload\WebDropUpload\bin\WebDropUpload.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\WebDropUpload.pdb
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\csc.exe
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\csc.exe.config
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\csc.rsp
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\csi.exe
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\csi.exe.config
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\csi.rsp
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.AppContext.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Collections.Immutable.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Console.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.Compression.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.FileSystem.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.Pipes.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Reflection.Metadata.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.AccessControl.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Claims.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.ValueTuple.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Xml.XPath.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\vbc.exe
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\vbc.exe.config
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\vbc.rsp
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\VBCSCompiler.exe
+E:\Product\WebDropUpload\WebDropUpload\bin\roslyn\VBCSCompiler.exe.config
+E:\Product\WebDropUpload\WebDropUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\Microsoft.Web.Infrastructure.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Helpers.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Mvc.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Razor.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.Deployment.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.Razor.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Razor.xml
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.xml
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.Deployment.xml
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.Razor.xml
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Helpers.xml
+E:\Product\WebDropUpload\WebDropUpload\bin\System.Web.Mvc.xml
+E:\Product\WebDropUpload\WebDropUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Product\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Product\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Product\WebDropUpload\WebDropUpload\obj\Debug\WebDropUpload.csprojAssemblyReference.cache
+E:\Product\WebDropUpload\WebDropUpload\obj\Debug\WebDropUpload.csproj.CoreCompileInputs.cache
+E:\Product\WebDropUpload\WebDropUpload\obj\Debug\WebDropUpload.csproj.CopyComplete
+E:\Product\WebDropUpload\WebDropUpload\obj\Debug\WebDropUpload.dll
+E:\Product\WebDropUpload\WebDropUpload\obj\Debug\WebDropUpload.pdb
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\WebDropUpload.dll.config
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\WebDropUpload.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\WebDropUpload.pdb
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\csc.exe
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\csc.exe.config
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\csc.rsp
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\csi.exe
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\csi.exe.config
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\csi.rsp
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.AppContext.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Console.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.Compression.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.IO.Pipes.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Claims.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.ValueTuple.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Xml.XPath.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\vbc.exe
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\vbc.exe.config
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\vbc.rsp
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\VBCSCompiler.exe
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Helpers.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Mvc.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Razor.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.Deployment.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.Razor.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Razor.xml
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.xml
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.Deployment.xml
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Webpages.Razor.xml
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Helpers.xml
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\System.Web.Mvc.xml
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\obj\Debug\WebDropUpload.csprojResolveAssemblyReference.cache
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\obj\Debug\WebDropUpload.dll
+C:\Users\taoyu\Documents\Tencent Files\847055719\FileRecv\WebDropUpload\WebDropUpload\WebDropUpload\obj\Debug\WebDropUpload.pdb

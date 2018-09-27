@@ -1,0 +1,116 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+    @*<link rel="stylesheet" href="https://rawgit.com/enyo/dropzone/master/dist/dropzone.css">*@
+
+    <script src="~/scripts/jquery-1.10.2.js"></script>
+
+    <!--拖动js-->
+    @*<script src="https://rawgit.com/enyo/dropzone/master/dist/dropzone.js"></script>*@
+
+
+    <link href="~/Content/dropzone.css" rel="stylesheet" />
+    <script src="~/scripts/dropzone.js"></script>
+
+
+</head>
+<body>
+    @*<form action="/Dropper/uploadTarget" class="dropzone">
+            <div class="fallback">
+                <input name="file" type="file" multiple />
+            </div>
+        </form>*@
+
+    <div id="myId2" style="height:500px;border:1px #00ff90 solid" class="dropzone">
+
+    </div>
+
+    <div id="myid3">
+        sssss
+    </div>
+</body>
+</html>
+
+<script>
+    //Dropzone.options.myAwesomeDropzone = {
+    //    paramName: "file", // The name that will be used to transfer the file
+    //    maxFilesize: 2, // MB
+    //    accept: function (file, done) {
+
+    //        console.log(file.name);
+
+    //        if (file.name == "justinbieber.jpg") {
+    //            done("Naha, you don't.");
+    //        }
+    //        else { done(); }
+    //    }
+    //};
+
+     //Dropzone class:
+    var myDropzone = new Dropzone("div#myId2", {
+        url: "/Dropper/uploadTarget", //文件的提交Url
+        parallelUploads: 1,   //文件上传的进度
+        uploadMultiple: true, //文件是否一起上传
+        //chunking: true,
+        paramName: "li", //文件接收的Name
+        createImageThumbnails: true,//是否显示缩略图
+        maxThumbnailFilesize: 12, //显示FileName 的长度
+        thumbnailWidth: 130,  //缩略图的宽度
+        thumbnailHeight: 130, //缩略图的高度
+        thumbnailMethod: 'crop',// 显示缩略图的方式
+        resizeMethod: 'crop',
+        filesizeBase: 1024, //显示文件大小 MB or T
+        headers: { "My-Awesome-Header": "header value" },//头文件信息
+        accept: function (file, done) {  //接收文件
+            console.log(file);
+            //添加文件
+            done();
+        },
+        // previewTemplate: document.querySelector('#myid3').innerHTML,  //替换内容
+        fallback: function (dat) {
+            console.log(dat);
+        },
+    });
+
+    console.log(myDropzone);
+
+    myDropzone.on("addedfile", function (file) {
+        /* Maybe display some more file information on your page */
+        alert('');
+    });
+
+    myDropzone.on("removedfile", function (file) {
+        /* Maybe display some more file information on your page */
+        alert('');
+    });
+
+
+    myDropzone.on("success", function (file) {
+        /* Maybe display some more file information on your page */
+        alert('success');
+    });
+
+    myDropzone.on("sendingmultiple", function (file) {
+        /* Maybe display some more file information on your page */
+        alert('sendingmultiple');
+    });
+
+
+
+
+
+
+
+     //jQuery
+     //$("#myId2").dropzone({ url: "/Dropper/uploadTarget" });
+
+</script>
