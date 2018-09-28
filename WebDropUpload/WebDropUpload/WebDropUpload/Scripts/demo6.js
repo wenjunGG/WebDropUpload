@@ -1,4 +1,4 @@
-function showModal() { //打开上传框
+﻿function showModal() { //打开上传框
 	var modal = document.getElementById('modal');
 	var overlay = document.getElementsByClassName('overlay')[0];
 	overlay.style.display = 'block';
@@ -73,7 +73,7 @@ dz.addEventListener("drop", function (ev) {
         debugger;
         item.file(function (file) {
             let newForm = Dragfiles(); //获取单例
-            newForm.append(item.name, file);
+            newForm.append(item.name, file,item.fullPath);
         });
       }
 
